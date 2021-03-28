@@ -10,6 +10,10 @@ serial communication.
 
 Default configuration can be overriden by definitions included prior to fastcomms.h
 
+Please keep in mind this is a work in progress!
+
+Bugfixes or suggestions are welcome!
+
 ## Example usage:
 ```cpp
 /* Default configuration in fastcomms.h:
